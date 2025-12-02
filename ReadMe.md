@@ -9,6 +9,6 @@ Columns:
 - milage : INT
 - color : VARCHAR(20)
 - plate : VARCHAR(20) UNIQUE
-- pirce : DECIMAL(8, 2)
+- price : DECIMAL(8, 2)
 - description : TEXT NULL
 - posted : DATE
